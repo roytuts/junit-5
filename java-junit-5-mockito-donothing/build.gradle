@@ -1,0 +1,13 @@
+plugins {
+    id 'java-library'
+}
+
+repositories {	
+    jcenter()
+}
+
+dependencies {
+    testImplementation 'org.junit.jupiter:junit-jupiter-engine:5.7.0-M1'
+	testImplementation 'org.junit.platform:junit-platform-engine:1.7.0-M1'
+	testImplementation 'org.mockito:mockito-junit-jupiter:3.4.4'
+}
