@@ -1,0 +1,1 @@
+You can read tutorial https://roytuts.com/junit-5-expected-exception-using-assertions-assertthrows/
