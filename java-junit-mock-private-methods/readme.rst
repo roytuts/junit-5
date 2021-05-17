@@ -1,0 +1,1 @@
+You can read tutorial https://roytuts.com/how-to-test-private-methods-using-junit-5/
